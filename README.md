@@ -1,1 +1,1 @@
-# Welcome to FusionX Wiki
+# Welcome to FusionX 
